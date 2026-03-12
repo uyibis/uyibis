@@ -1,7 +1,3 @@
-# Hi, I’m Ighodaro Egharevba Uyioghosa 👋
-
-<img src="profile.jpg" alt="Profile photo" width="25%" />
-
 **Senior Software Engineer • Backend & Distributed Systems**
 
 I build scalable, cloud-native systems and high-performance services across modern stacks. I focus on clean architecture, concurrency, and production-grade reliability.
@@ -17,9 +13,9 @@ I build scalable, cloud-native systems and high-performance services across mode
 
 **Languages & Runtime:** C#/.NET • PHP • Python • JavaScript • Goroutines & Channels • Context
 
-**Frameworks & Tools:** Gin • Echo • gRPC • Protocol Buffers • ASP.NET Core • Blazor
+**Frameworks & Tools:** Gin • Echo • gRPC • Protocol Buffers • ASP.NET Core • Blazor • Laravel
 
-**Data:** PostgreSQL • MongoDB • Redis • SQL Server • GORM • SQLx
+**Data:** PostgreSQL • MySQL • MongoDB • Redis • SQL Server • GORM • SQLx
 
 **Cloud & DevOps:** Docker • Kubernetes • AWS • Azure • GCP • Prometheus • Grafana • Jaeger
 
@@ -55,7 +51,7 @@ I build scalable, cloud-native systems and high-performance services across mode
 
 - GitHub: https://github.com/uyibis
 - LinkedIn: https://www.linkedin.com/in/ighodaro-uyioghosa-b9352b138/
-- Portfolio: https://mywork.com.ng
+- Portfolio: https://uyibis.com.ng/
 - Email: uyibis@outlook.com
 
 > “Building the future with Go, one goroutine at a time.”
